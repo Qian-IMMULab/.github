@@ -13,5 +13,5 @@ Code available at: IMMULab/MUP-Net
 
 #### Artificial intelligence on multimodal data integration
 
-- **X. Qian\***, C. Han, Z. Liang, G. Zhang, N. Chen, W. Zheng, ... & D. Shen. “breast cancer.” (2024)          Code availabel at IMMULab/BMU-Net [BMUNet](https://github.com/IMMULab/BMUNet)
+- **X. Qian\***, C. Han, Z. Liang, G. Zhang, N. Chen, W. Zheng, ... & D. Shen. “A modular deep learning.” (2024)          Code availabel at IMMULab/BMU-Net [BMUNet](https://github.com/IMMULab/BMUNet)
 
