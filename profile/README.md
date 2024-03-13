@@ -2,7 +2,7 @@ The mission of Qian IMMU Research Lab takes advantages of engineering informatic
 
 
 
-### Publications with code release (* Corresponding Author)
+### Publications with code release
 
 #### Interpretable deep learning on multi-mode ultrasound image
 
