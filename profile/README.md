@@ -1,4 +1,4 @@
-**The mission of Qian IMMU Research Lab takes advantages of engineering informatics to design and develop new multimodal intelligent medical ultrasound, for advancing precise disease diagnosis and treatment.**
+**The mission of Qian IMMU Research Lab is to take advantages of engineering informatics to design and develop new multimodal intelligent medical ultrasound, for advancing disease diagnosis, prognosis and treatment.**
 
 
 
