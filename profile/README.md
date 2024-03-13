@@ -4,7 +4,7 @@
 
 ## Publications with code release
 
-### Interpretation of deep learning on multi-mode ultrasound image
+### Interpretable deep learning on multi-mode ultrasound image
 
 1. **A domain-knowledge based interpretable deep learning system for improving clinical breast ultrasound diagnosis**
    - **Authors**: L. Yan, Z. Liang, H. Zhang, G. Zhang, W. Zheng, C. Han, ... & **X. Qian***
