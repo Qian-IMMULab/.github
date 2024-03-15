@@ -3,6 +3,8 @@
 
 
 ## Publications with code release
+![image](https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b)
+
 
 ### Interpretable deep learning on ultrasound image (B-mode, color Doppler, elastography)
 
