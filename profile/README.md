@@ -9,7 +9,6 @@
 
 1. **A domain-knowledge based interpretable deep learning system for improving clinical breast ultrasound diagnosis**
    - **Authors**: Z. Liang, J. Pei, C. Han, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
-
    - **Paper**: 
    - **Code**: 
 
@@ -17,7 +16,6 @@
 ### Multimodal data integration for precision diagnosis
 
 1. **A modular deep learning**
-   
    - **Authors**: **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> , C. Han, Z. Liang, ... & D. Shen
    - **Paper**: [(2024)]()
    - **Code**: [IMMULab/BMU-Net]()
@@ -32,10 +30,8 @@
   
 
 ### Interpretable deep learning on ultrasound image (B-mode, color Doppler, elastography)
-
 1. **A domain-knowledge based interpretable deep learning system for improving clinical breast ultrasound diagnosis**
    - **Authors**: L. Yan, Z. Liang, H. Zhang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
-
    - **Paper**: [Communications Medicine (2024)](https://www.nature.com/articles/s43856-024-00518-7)
    - **Code**: [IMMULab/MUP-Net]()
   
