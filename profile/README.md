@@ -18,7 +18,7 @@
 3. **A domain-knowledge based interpretable deep learning system for improving clinical breast ultrasound diagnosis**   
    - **Authors**: L. Yan, Z. Liang, H. Zhang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
    - **Paper**: [Communications Medicine (2024)](https://www.nature.com/articles/s43856-024-00518-7)
-   - **Code**: [IMMULab/MUP-Net]()
+   - **Code**: [IMMULab/MUP-Net](https://github.com/Qian-IMMULab/MUP-Net)
      
 2. **Prospective assessment of breast cancer risk from multimodal multiview ultrasound images via clinically applicable deep learning**
    - **Authors**: **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> , J. Pei, H. Zheng, ... & K. Kirk Shung
