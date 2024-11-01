@@ -1,12 +1,15 @@
 **The mission of Qian Research Group is to take advantages of engineering informatics to design and develop new multimodal intelligent medical ultrasound, for advancing disease diagnosis, prognosis and treatment.**
 
 
-
-
 1. **Coming soon**
    - **Authors**: Z. Liang, J. Pei, C. Han, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
    - **Paper**: 
    - **Code**: 
+
+1. **Coming soon**
+   - **Authors**: Z. Liang, J. Pei, C. Han, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
+   - **Paper**: 
+   - **Code**:
 
 2. **A multimodal machine learning model for the stratification of breast cancer risk**
    - **Authors**: **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> , C. Han, Z. Liang, ... & D. Shen
@@ -22,7 +25,7 @@
    - **Authors**: **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> , J. Pei, H. Zheng, ... & K. Kirk Shung
    - **Paper**: [Nature Biomedical Engineering (2021)](https://www.nature.com/articles/s41551-021-00711-2)
 
-5. **A combined ultrasonic B-mode and color Doppler system for the classification of breast masses using neural network**
+2020). **A combined ultrasonic B-mode and color Doppler system for the classification of breast masses using neural network**
    - **Authors**: **X. Qian**, B. Zhang, S. Liu, ... & Z. Chen<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
    - **Paper**: [European Radiology (2020)](https://link.springer.com/article/10.1007/s00330-019-06610-0)
   
