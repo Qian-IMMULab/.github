@@ -8,9 +8,9 @@
    - **Paper**: 
    - **Code**: 
 
-2. **Coming soon**
+2. **A multimodal machine learning model for the stratification of breast cancer risk**
    - **Authors**: **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> , C. Han, Z. Liang, ... & D. Shen
-   - **Paper**: [(2024)]()
+   - **Paper**: [Nature Biomedical Engineering(2024)]()
    - **Code**: [IMMULab/BMU-Net](https://github.com/Qian-IMMULab/BMU-Net)
 
 3. **A domain-knowledge based interpretable deep learning system for improving clinical breast ultrasound diagnosis**   
