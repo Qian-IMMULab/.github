@@ -7,7 +7,7 @@
    - **Code**: 
 
 2. **Coming on 2025**
-   - **Authors**: Z. Liang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
+   - **Authors**: Z. Liang, Q. Niu, J. Wang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
    - **Paper**: 
    - **Code**:
 
