@@ -6,10 +6,10 @@
    - **Paper**: 
    - **Code**: 
 
-2. **Coming on 2025**
+2. **A Foundation model for xxx using non-contrast computed tomography**
    - **Authors**: Z. Liang, Q. Niu, J. Wang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
-   - **Paper**: 
-   - **Code**:
+   - **Paper**: Coming soon
+   - **Code**: [IMMULab/OMAFound](https://github.com/Qian-IMMULab/OMAFound)
 
 3. **A multimodal machine learning model for the stratification of breast cancer risk**
    - **Authors**: **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> , C. Han, Z. Liang, ... & D. Shen
