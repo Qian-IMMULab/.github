@@ -1,14 +1,14 @@
 **The mission of Qian Research Group is to take advantages of engineering informatics to design and develop new multimodal intelligent medical ultrasound, for advancing disease diagnosis, prognosis and treatment.**
 
 
-1. **Coming on 2025**
+1. **Coming on 2026**
    - **Authors**: D. Yu, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
    - **Paper**: 
    - **Code**: 
 
 2. **A Foundation model for xxx using non-contrast computed tomography**
    - **Authors**: Z. Liang, Q. Niu, J. Wang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
-   - **Paper**: Coming soon
+   - **Paper**: Coming soon (2026)
    - **Code**: [IMMULab/OMAFound](https://github.com/Qian-IMMULab/OMAFound)
 
 3. **A multimodal machine learning model for the stratification of breast cancer risk**
