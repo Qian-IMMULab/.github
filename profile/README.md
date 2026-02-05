@@ -6,9 +6,9 @@
    - **Paper**: 
    - **Code**: 
 
-2. **A Foundation model for xxx using non-contrast computed tomography**
+2. **A foundation model for breast and lung cancer screening using non-contrast computed tomography**
    - **Authors**: Z. Liang, Q. Niu, J. Wang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
-   - **Paper**: Coming soon (2026)
+   - **Paper**: [Nature Health (2026)](https://www.nature.com/articles/s44360-026-00055-8)
    - **Code**: [IMMULab/OMAFound](https://github.com/Qian-IMMULab/OMAFound)
 
 3. **A multimodal machine learning model for the stratification of breast cancer risk**
