@@ -1,10 +1,10 @@
 **The mission of Qian Research Group is to take advantages of engineering informatics to design and develop new multimodal intelligent medical ultrasound, for advancing disease diagnosis, prognosis and treatment.**
 
 
-1. **Coming on 2026**
-   - **Authors**: D. Yu, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
-   - **Paper**: 
-   - **Code**: 
+1. **An ultrasound foundation model for the stratification of vision impairment and eye cancer risk**
+   - **Authors**: Z. Zhou, X. Chen, D. Yu, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
+   - **Paper**: [npj Digital Medicine (2026)]
+   - **Code**: [IMMULab/SonoEye]
 
 2. **A foundation model for breast and lung cancer screening using non-contrast computed tomography**
    - **Authors**: Z. Liang, Q. Niu, J. Wang, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
