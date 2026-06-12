@@ -3,7 +3,7 @@
 
 1. **An ultrasound foundation model for the stratification of vision impairment and eye cancer risk**
    - **Authors**: Z. Zhou, X. Chen, D. Yu, ... & **X. Qian**<img src="https://github.com/Qian-IMMULab/.github/assets/82697090/8a44c340-8520-4619-9b15-f18123376b1b" width="18px"> 
-   - **Paper**: npj Digital Medicine (2026)
+   - **Paper**: [npj Digital Medicine (2026)](https://www.nature.com/articles/s41746-026-02870-5)
    - **Code**: [IMMULab/SonoEye](https://github.com/Qian-IMMULab/SonoEye)
 
 2. **A foundation model for breast and lung cancer screening using non-contrast computed tomography**
